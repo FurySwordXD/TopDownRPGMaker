@@ -1,0 +1,7 @@
+x: 650	y: 300	w: 50	h: 50	r: 0	b: 0	dirt
+x: 650	y: 350	w: 50	h: 50	r: 0	b: 0	dirt
+x: 700	y: 350	w: 50	h: 50	r: 0	b: 0	dirt
+x: 700	y: 300	w: 50	h: 50	r: 0	b: 0	dirt
+
+PlayerSpawn: 	x: 500	y: 300
+

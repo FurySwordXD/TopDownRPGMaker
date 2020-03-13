@@ -1,0 +1,9 @@
+x: 550	y: 350	w: 50	h: 50	r: 0	b: 0	wood1
+x: 500	y: 350	w: 50	h: 50	r: 0	b: 0	wood1
+x: 500	y: 300	w: 50	h: 50	r: 0	b: 0	wood1
+x: 550	y: 300	w: 50	h: 50	r: 0	b: 0	wood1
+
+PlayerSpawn: 	x: 500	y: 300
+
+
+Portal: x: 700	y: 300	Level: l2	Door_Closed

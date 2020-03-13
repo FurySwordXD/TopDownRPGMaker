@@ -1,0 +1,9 @@
+x: 650	y: 300	w: 50	h: 50	r: 0	b: 0	grass
+x: 650	y: 350	w: 50	h: 50	r: 0	b: 0	grass
+x: 700	y: 350	w: 50	h: 50	r: 0	b: 0	grass
+x: 700	y: 300	w: 50	h: 50	r: 0	b: 0	grass
+x: 750	y: 300	w: 50	h: 50	r: 0	b: 0	grass
+x: 750	y: 350	w: 50	h: 50	r: 0	b: 0	grass
+
+PlayerSpawn: 	x: 500	y: 300
+
